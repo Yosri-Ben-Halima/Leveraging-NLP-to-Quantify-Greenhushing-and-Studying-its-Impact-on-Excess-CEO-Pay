@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+statsmodels
+scipy
+scikit-learn
+linearmodels
+gensim
+nltk
+requests
+beautifulsoup4
+tabula-py
+selenium
+webdriver-manager
+ipython
